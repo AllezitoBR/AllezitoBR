@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alexandre, estudante de programação!
 
 - 📚 Atualmente estou cursando Desenvolvimento Web FullStack (DIGITAL HOUSE).
-- 🎓 Sou formado no Superior Tecnológico em Ciências de Dados, aguardando colação de grau!
+- 🎓 Sou formado no Superior Tecnológico em Ciências de Dados, e atualmente faço MBA em Gestão de TI!
 - 🎯 O meu objetivo é "Transformar o mundo com a tecnologia".
 - 😁 Pronomes: Ele/Dele
 - 📫 E-mail para contato:  alle_andrade123@hotmail.com
