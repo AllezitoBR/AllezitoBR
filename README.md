@@ -33,4 +33,4 @@
 </div>
 
   
-![Homem digitano](https://github.com/AllezitoBR/AllezitoBR/blob/main/dormrm.gif)
+![Homem digitando](https://github.com/AllezitoBR/AllezitoBR/blob/main/dormrm.gif)
