@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Alexandre, estudante de programação!
+DIGITAL ).
 
-- 📚 Atualmente estou cursando Desenvolvimento Web FullStack (DIGITAL HOUSE).
 - 🎓 Sou formado no Superior Tecnológico em Ciências de Dados, e atualmente faço MBA em Gestão de TI!
-- 🎯 O meu objetivo é "Transformar o mundo com a tecnologia".
+- 📚 Tenho curso de Quality Assurance QA basico e avancado pelo IETEC Ilhabela em parceria com Instituto Joga Junto. 
 - 😁 Pronomes: Ele/Dele
 - 📫 E-mail para contato:  alle_andrade123@hotmail.com
 
